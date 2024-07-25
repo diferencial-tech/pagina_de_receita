@@ -12,7 +12,7 @@ Projeto desenvolvido no curso Full Stack da Rocketseat.
 </p>
 
 <p align="center">
-  <img alt="Projeto página de receitas" src=".github/preview.png">
+  <img alt="Projeto página de receitas" src=".github/preview.jpg">
 </p>
 
 <br>
